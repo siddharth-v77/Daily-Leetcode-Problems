@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 ## Array
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
