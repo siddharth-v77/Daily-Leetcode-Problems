@@ -150,9 +150,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
