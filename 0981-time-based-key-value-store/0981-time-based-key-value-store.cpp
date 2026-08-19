@@ -15,7 +15,7 @@ unordered_map<string,vector<pair<int,string>>> mp;
             return "";
         }
         
-        int l = 0;
+        int l = 0 ;
         int r = mp[key].size()-1;
 
         if(mp[key][0].first > timestamp){
@@ -26,12 +26,12 @@ unordered_map<string,vector<pair<int,string>>> mp;
             int mid = l+(r-l)/2;
 
            if(mp[key][mid].first == timestamp){
-            return mp[key][mid].second;
+            return mp[key][mid].second ;
            }
 
             else if (mp[key][mid].first < timestamp){
                 ans=mp[key][mid].second;
-                l=mid+1;
+                l=mid+1 ;
             }
 
             else r =mid-1;
