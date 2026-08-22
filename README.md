@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
