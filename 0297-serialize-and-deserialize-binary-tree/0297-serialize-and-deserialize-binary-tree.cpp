@@ -60,11 +60,11 @@ public:
             return NULL;
         }
 
-        TreeNode* root = new TreeNode(stoi(vec[i]));
+        TreeNode* root = new TreeNode(stoi(vec[i])) ;
         i++;
 
-        root->left = build(vec, i);
-        root->right = build(vec, i);
+        root->left = build(vec, i) ;
+        root->right = build(vec, i) ;
 
         return root;
     }
