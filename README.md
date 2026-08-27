@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
