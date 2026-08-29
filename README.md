@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1046-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
