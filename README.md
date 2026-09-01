@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1046-last-stone-weight) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
