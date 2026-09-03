@@ -4,7 +4,7 @@ public:
     vector<vector<int>> result;
 
     vector<vector<int>> solve(vector<int>& nums ,int i, vector<int>& temp) {
-        if(i == nums.size()){
+        if(i >= nums.size()){
             result.push_back(temp);
             return result;
         }
