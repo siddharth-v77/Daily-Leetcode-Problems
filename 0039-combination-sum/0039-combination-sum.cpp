@@ -25,7 +25,9 @@ return;
 
 }
     vector<vector<int>> combinationSum(vector<int>& arr, int tar) {
-        vector<int> combi;
+      
+      s.clear();
+       vector<int> combi;
         vector<vector<int>>ans;
 
         solve(arr, tar, 0, combi,ans);
