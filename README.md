@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1046-last-stone-weight) |
 ## Sorting
