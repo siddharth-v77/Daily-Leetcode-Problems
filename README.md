@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -407,4 +409,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
