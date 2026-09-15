@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0853-car-fleet) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -431,4 +435,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
