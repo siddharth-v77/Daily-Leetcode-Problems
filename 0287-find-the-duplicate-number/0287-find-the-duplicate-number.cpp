@@ -7,17 +7,17 @@ public:
         slow = nums[slow];
         fast = nums[nums[fast]];
 
-        while(slow != fast){
-            slow = nums[slow];
+        while( slow != fast ){
+             slow = nums[slow];
         fast = nums[nums[fast]];
         }
 
         slow = nums[0];
+
         while(slow != fast){
-            slow = nums[slow];
+        slow = nums[slow];
         fast = nums[fast];
         }
-
         return slow;
     }
 };
