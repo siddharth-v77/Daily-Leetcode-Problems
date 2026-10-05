@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1046-last-stone-weight) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
