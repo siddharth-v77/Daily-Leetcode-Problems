@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
