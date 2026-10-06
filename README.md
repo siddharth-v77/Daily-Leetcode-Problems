@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0647-palindromic-substrings](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
