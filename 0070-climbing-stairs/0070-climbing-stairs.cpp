@@ -44,7 +44,7 @@ int solve(int n){
     return t[n] = jump1+jump2 ;
 }
     int climbStairs(int n) {
-        memset(t, -1 , sizeof(t)) ;
+       memset(t, -1, sizeof(t));
         return solve(n);
     }
 };
