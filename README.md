@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -552,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0139-word-break) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
