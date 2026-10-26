@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
