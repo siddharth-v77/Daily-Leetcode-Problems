@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0518-coin-change-ii) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -522,16 +527,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -541,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
