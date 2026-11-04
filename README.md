@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/siddharth-v77/Daily-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
