@@ -1,6 +1,6 @@
 class Solution {
 public:
-int p[10001][1001] ;
+int p[1001][1001] ;
 int solve(string& s, string& t , int i , int j ){
     if(j == t.length()){
         return 1;
